@@ -11,7 +11,7 @@ And save your current Nvim folder with another name and replace it with was clon
 
 ## Package Manager
 
-[Packer nvim](https://github.com/wbthomason/packer.nvim) 
+- [Packer nvim](https://github.com/wbthomason/packer.nvim) 
 
 ---
 
@@ -29,3 +29,9 @@ Here are some of the plugins used:
 - [BufferLine](https://github.com/akinsho/bufferline.nvim) 
 - [NvimComment](https://github.com/terrortylor/nvim-comment) 
 - [Material Theme](https://github.com/kaicataldo/material.vim) 
+
+---
+
+## Extras
+
+Remember this configuration is for personal use, feel free to adapt and edit for your specific need.
