@@ -37,4 +37,4 @@ Here are some of the plugins used:
 
 ## Extras
 
-Remember this configuration is for personal use, feel free to adapt and edit for your specific need.
+Remember this configuration is for my personal use. Feel free to adapt and edit for your specific need.
