@@ -1,4 +1,7 @@
 # neovim_config
+
+![Neovim]('./nvim.png') 
+
 This is Rafael's Neovim configuration. If you want to see how it's work and make some tests, clone this repo like this:
 
 ```bash
