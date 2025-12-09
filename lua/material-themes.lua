@@ -23,4 +23,5 @@ require("material").setup({
 })
 
 -- Enable the colorscheme
-vim.cmd 'colorscheme material'
+-- vim.cmd 'colorscheme material'
+vim.cmd("colorscheme quiet")
